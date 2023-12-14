@@ -56,4 +56,6 @@ gas自己把控，设置固定也行，就看快慢了。
 2、出现如图，直接点添加就行了
 <img width="1005" alt="image" src="https://github.com/Jermyo/cfxs-/assets/23717512/d73c8452-7a9d-40c8-aab6-a46f60963a09">
 
+### 7、加群
+<img width="519" alt="image" src="https://github.com/Jermyo/cfxs-/assets/23717512/7028f662-504c-4582-aff3-fcf9767e3393">
 
