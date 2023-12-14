@@ -41,6 +41,10 @@ gas自己把控，设置固定也行，就看快慢了。
 
 ### 5、转$cfxs
 我现在也提不了，有大神补充吗
+以下为群友补充：
+可以从币安买，提现bsc网，然后跨链到ConFlux
+币安购买地址：https://accounts.binance.info/zh-CN/register?ref=10197071
+跨桥地址：https://portal.zglabs.org/
 
 ### 6、交易所里提不了cfx
 现在都比较fomo，别着急，等等吧，2100w个呢，两天了才打了7%，着啥急，况且现在gas都很高。
