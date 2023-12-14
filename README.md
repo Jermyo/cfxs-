@@ -16,6 +16,9 @@ evm+utxo符文，无需索引，铭文进化版
 这个地址是项目合约地址：https://evm.confluxscan.net/address/0xc6e865c213c89ca42a622c5572d19f00d84d7a16?transactionType=executed
 3、想要看自己链上是否成功，换成自己的地址看成功进度
 
+### 另一个交互方式-如何通过在 Core 空间打 cfxs
+https://forum.conflux.fun/t/core-cfxs/19700
+
 ### 3、添加$CFXS
 直接在小狐狸里面
 添加代币名称 CFXS
