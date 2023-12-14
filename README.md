@@ -40,7 +40,7 @@ gas自己把控，设置固定也行，就看快慢了。
 <img width="446" alt="image" src="https://github.com/Jermyo/cfxs-/assets/23717512/42587d4e-e3c4-4fec-8c39-6717d70b9257">
 
 ### 5、转$cfxs
-<img width="336" alt="image" src="https://github.com/Jermyo/cfxs-/assets/23717512/d319f4a8-bb4e-445f-954a-fb02c6c58605">
+我现在也提不了，有大神补充吗
 
 ### 6、交易所里提不了cfx
 现在都比较fomo，别着急，等等吧，2100w个呢，两天了才打了7%，着啥急，况且现在gas都很高。
