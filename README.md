@@ -3,9 +3,7 @@
 ## 一切风险自己分析哈，我也是整理的网上的信息。
 
 ### 1、首先介绍一下 $cfxs
-$cfxs 发起人疑似（自己识别）：https://twitter.com/cfxscriptions
 cfx链铭文第一个币 $cfxs ，总量2100万张，gas低。没有预打，此铭文目的是对conflux espace做压力测试。
-创意来自大佬 @utxo_evm
 evm+utxo符文，无需索引，铭文进化版
 可以称作符文，这个摆脱了中心化索引器的必须性，利用了evm环境的特性。
 无需索引器，utxo模型类似可拆分的erc1155 nft
